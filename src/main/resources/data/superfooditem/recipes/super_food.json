@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "GDG",
+      "DAD",
+      "GDG"
+    ],
+    "key": {
+      "A": { "item": "minecraft:golden_apple" },
+      "D": { "item": "minecraft:diamond" },
+      "G": { "item": "minecraft:gold_ingot" }
+    },
+    "result": {
+      "item": "superfooditem:super_food",
+      "count": 2
+    }
+  }
