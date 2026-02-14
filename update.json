@@ -1,0 +1,10 @@
+{
+  "homepage": "https://github.com/GongYJ2011/Mc-SuperFood-Mod",
+  "promos": {
+    "1.18.2-recommended": "1.0.0",
+    "1.18.2-latest": "1.0.0"
+  },
+  "1.18.2": {
+    "1.0.0": "这是首个正式版本。\n- 添加了超级食物模组基础代码"
+  }
+}
