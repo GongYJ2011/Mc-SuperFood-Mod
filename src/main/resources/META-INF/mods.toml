@@ -26,7 +26,7 @@ displayName="Super Food" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification https://docs.minecraftforge.net/en/latest/misc/updatechecker/
 updateJSONURL="https://github.com/GongYJ2011/Mc-SuperFood-Mod/blob/main/updates.json" #optional
 # A URL for the "homepage" for this mod, displayed in the mod UI
-#displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
+displayURL="https://github.com/GongYJ2011/Mc-SuperFood-Mod/" #optional
 # A file name (in the root of the mod JAR) containing a logo for display
 logoFile="superfood.png" #optional
 # A text field displayed in the mod UI
